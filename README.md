@@ -1,7 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Lanka</h1>
-<h3 align="center">I am a passionate frontend developer dedicated to crafting clean, responsive, and user-focused web interfaces.</h3>
+<h3 align="center">I am passionate about frontend developement to create crafting clean, responsive, and user-focused web interfaces.</h3>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveeshalanka&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshalanka" /> </p>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it22889942&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=it22889942&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=it22889942&theme=dark" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+---
 
 - 🌱 I’m currently learning **React native**
 
