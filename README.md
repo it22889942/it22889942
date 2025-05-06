@@ -27,8 +27,8 @@
 </p>
 <br>
 
-<h3 align="left">What I am Good at 🧑‍💻 :</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<h2 align="center">What I am Good at 🧑‍💻 :</h2>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 
